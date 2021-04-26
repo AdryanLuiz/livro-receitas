@@ -4,3 +4,5 @@ Olá! Bem vindo ao livro de receitas :chicken:
 
 - Strogonoff de Frango
 
+- Camarao
+- batata 
